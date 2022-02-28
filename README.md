@@ -14,6 +14,8 @@ I am adding this through the users help.
 
 ##How to contribute
 
+please fork this repository and go ahead.
+
 ### Copyright
 
 2014 git training.
