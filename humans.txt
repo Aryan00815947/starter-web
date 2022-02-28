@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aryan Raj      aryanrajgce@gmail.com     @awesomejit
 
 # THANKS
 
