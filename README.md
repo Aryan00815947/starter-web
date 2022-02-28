@@ -13,3 +13,7 @@ I am adding this through the users help.
 
 
 ##How to contribute
+
+### Copyright
+
+2014 git training.
