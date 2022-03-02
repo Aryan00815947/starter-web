@@ -18,4 +18,4 @@ please fork this repository and go ahead.
 
 ### Copyright
 
-2014 git training.
+2014 git training.All right Reserved
